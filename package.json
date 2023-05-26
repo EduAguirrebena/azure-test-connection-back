@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.2",
+    "sequelize": "^6.31.1",
+    "uuid": "^9.0.0"
+  },
+  "name": "azure-test-connection-back",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduAguirrebena/azure-test-connection-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduAguirrebena/azure-test-connection-back/issues"
+  },
+  "homepage": "https://github.com/EduAguirrebena/azure-test-connection-back#readme",
+  "description": ""
+}
